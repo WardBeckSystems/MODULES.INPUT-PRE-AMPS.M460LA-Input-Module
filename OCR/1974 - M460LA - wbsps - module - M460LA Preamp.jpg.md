@@ -1,5 +1,5 @@
 # 1974 - M460LA - wbsps - module - M460LA Preamp.jpg
-Wiki page: [M460LA](../../../PAGES/M460LA.md)
+Wiki page: [M460LA](../../../../PAGES/M460LA.md)
 
 
 - **Year:** 1974 (module estimate (family))
@@ -40,7 +40,7 @@ ck ON
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M460LA/1974 - M460LA - wbsps - module - M460LA Preamp.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M460LA/PHOTOS/1974 - M460LA - wbsps - module - M460LA Preamp.jpg",
  "sha256": "744d8c61f3c44ebf4f987d7d9e134000a42d496f0e055e76d919e3752e4c831a",
  "kind": "module",
  "models": [
