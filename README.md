@@ -13,6 +13,12 @@ Ward-Beck Systems M460LA, 1974|7. Wiki page: [M460LA on WBSps.ca](https://wardbe
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 2 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [12 topics](FORUM.md): what owners and technicians said about it.
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
