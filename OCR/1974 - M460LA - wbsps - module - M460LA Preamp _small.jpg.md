@@ -1,5 +1,5 @@
 # 1974 - M460LA - wbsps - module - M460LA Preamp _small.jpg
-Wiki page: [M460LA](../../../../PAGES/M460LA.md)
+Wiki page: [M460LA](../)
 
 
 - **Year:** 1974 (module estimate (family))
